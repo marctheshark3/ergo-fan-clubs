@@ -1,6 +1,6 @@
 
 # Colors
-background_color: 'white' #'#526D82'
+background_color: '#526D82'
 secondary_color: '#27374D'
 large_text_color: '#9DB2BF' 
 small_text_color: '#DDE6ED'
