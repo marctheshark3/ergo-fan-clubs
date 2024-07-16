@@ -6,6 +6,6 @@ These assets are currently being used in the sigmanauts mining pool UI
 
 ## Supported Fan Clubs
 | Fan Club |
-| --- | 
-| Bobber | 
+| --- |
+| Bobber |
 | Pool |
