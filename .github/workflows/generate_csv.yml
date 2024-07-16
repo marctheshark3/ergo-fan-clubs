@@ -33,4 +33,4 @@ jobs:
         git commit -m 'BOT Generate supported-fan-clubs.csv'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
