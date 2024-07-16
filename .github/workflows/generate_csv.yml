@@ -9,6 +9,9 @@ jobs:
   generate-csv:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
@@ -22,6 +25,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pandas
+
     - name: Run the Python script
       run: python generate_csv.py
 
