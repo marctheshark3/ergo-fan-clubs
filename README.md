@@ -9,3 +9,4 @@ These assets are currently being used in the sigmanauts mining pool UI
 | --- |
 | Bobber |
 | Pool |
+| test |
