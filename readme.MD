@@ -5,6 +5,7 @@ This repo contains a set of assets relative to various "fan clubs" or projects a
 These assets are currently being used in the sigmanauts mining pool UI
 
 ## Supported Fan Clubs
-| Fan Club | Assets Ready |
+| Fan Club |
 | --- | --- |
-| Bobber | N | 
+| Bobber | 
+| Pool |
