@@ -1,7 +1,7 @@
 
 # Colors
-background_color: 'white' # '#526D82'
-secondary_color: 'red' #'#27374D'
+background_color: 'green' # '#526D82'
+secondary_color: 'purple' #'#27374D'
 large_text_color: '#9DB2BF' 
 small_text_color: '#DDE6ED'
 
