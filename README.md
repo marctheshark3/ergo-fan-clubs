@@ -11,3 +11,4 @@ To add a club to the list, simply create a PR that adds your club to the list as
 | --- |
 | Bobber |
 | Pool |
+| test |
