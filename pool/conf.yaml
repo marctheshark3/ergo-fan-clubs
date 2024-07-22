@@ -5,7 +5,6 @@ secondary_color: 'black' #'#27374D'
 large_text_color: '#9DB2BF' 
 small_text_color: '#DDE6ED'
 
-
 # ICONS
 ## Mining Page
 shares: 'min_payout.png'
